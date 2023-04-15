@@ -1,0 +1,117 @@
+﻿[
+    {
+        "Datum": "01.01.21",
+        "Firma": "IBM",
+        "Betrag": "50"
+    },
+    {
+        "Datum": "05.01.21",
+        "Firma": "Microsoft",
+        "Betrag": "900"
+    },
+    {
+        "Datum": "31.01.21",
+        "Firma": "IBM",
+        "Betrag": "8000"
+    },
+    {
+        "Datum": "02.01.21",
+        "Firma": "Apple",
+        "Betrag": "300"
+    },
+    {
+        "Datum": "06.01.21",
+        "Firma": "Apple",
+        "Betrag": "60"
+    },
+    {
+        "Datum": "01.02.21",
+        "Firma": "IBM",
+        "Betrag": "900"
+    },
+    {
+        "Datum": "03.01.21",
+        "Firma": "IBM",
+        "Betrag": "6000"
+    },
+    {
+        "Datum": "07.01.21",
+        "Firma": "IBM",
+        "Betrag": "900"
+    },
+    {
+        "Datum": "02.02.21",
+        "Firma": "Microsoft",
+        "Betrag": "50"
+    },
+    {
+        "Datum": "04.01.21",
+        "Firma": "IBM",
+        "Betrag": "70"
+    },
+    {
+        "Datum": "02.01.21",
+        "Firma": "IBM",
+        "Betrag": "500"
+    },
+    {
+        "Datum": "06.01.21",
+        "Firma": "Microsoft",
+        "Betrag": "900"
+    },
+    {
+        "Datum": "01.02.21",
+        "Firma": "IBM",
+        "Betrag": "300"
+    },
+    {
+        "Datum": "03.01.21",
+        "Firma": "Apple",
+        "Betrag": "8000"
+    },
+    {
+        "Datum": "07.01.21",
+        "Firma": "Apple",
+        "Betrag": "40"
+    },
+    {
+        "Datum": "02.02.21",
+        "Firma": "IBM",
+        "Betrag": "800"
+    },
+    {
+        "Datum": "04.01.21",
+        "Firma": "IBM",
+        "Betrag": "30"
+    },
+    {
+        "Datum": "08.01.21",
+        "Firma": "IBM",
+        "Betrag": "30"
+    },
+    {
+        "Datum": "03.02.21",
+        "Firma": "Microsoft",
+        "Betrag": "30"
+    },
+    {
+        "Datum": "05.01.21",
+        "Firma": "IBM",
+        "Betrag": "5000"
+    },
+    {
+        "Datum": "03.01.21",
+        "Firma": "IBM",
+        "Betrag": "3000"
+    },
+    {
+        "Datum": "07.01.21",
+        "Firma": "Microsoft",
+        "Betrag": "700"
+    },
+    {
+        "Datum": "02.02.21",
+        "Firma": "IBM",
+        "Betrag": "200"
+    }
+]
